@@ -1,2 +1,2 @@
-# Solidity-Smart-Contracts
-The smart contracts I have written while learning Solidity
+# Solidity Smart Contracts
+The smart contracts which I have written while learning Solidity
